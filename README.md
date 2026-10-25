@@ -13,7 +13,7 @@
 - 🔭 I'm currently working on **[Teaching-TKA](https://github.com/rendyyxyz/Teaching-TKA)**: a study site for the 2026 Indonesian TKA exam, covering Matematika, Bahasa Indonesia, Bahasa Inggris, and Fisika
 - 🌱 I'm currently learning **Web Crypto**. The site encrypts every page in the browser with AES-GCM, so content stays unreadable without the password
 - 💬 Ask me about **HTML, JavaScript, and building static sites that keep their content locked**
-- 📫 How to reach me: **cahyamuhamadirgi01@gmail.com**
+- 📫 How to reach me: **cahyamuhamadirgi@gmail.com**
 
 ---
 
