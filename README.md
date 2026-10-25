@@ -45,7 +45,11 @@
 ### Featured project
 
 <a href="https://github.com/rendyyxyz/Teaching-TKA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=default" alt="Teaching-TKA" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=dark&bg_color=0d1117&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=default&bg_color=ffffff&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=default&bg_color=ffffff&hide_border=true" alt="Teaching-TKA" />
+  </picture>
 </a>
 
 **[Teaching-TKA](https://rendyyxyz.github.io/Teaching-TKA/)**: four subjects, one password.
@@ -62,8 +66,16 @@
 ### GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en" alt="rendyyxyz" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en" alt="rendyyxyz" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=dark&bg_color=0d1117&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="rendyyxyz" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en&theme=dark&bg_color=0d1117&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en&theme=default&bg_color=ffffff&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="rendyyxyz" height="165" />
+  </picture>
 </p>
 
 ---
