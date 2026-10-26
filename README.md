@@ -65,18 +65,24 @@
 
 ### GitHub stats
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=dark&bg_color=0d1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="rendyyxyz" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=true&transparent=true&colors=161b22,0e4429,006d32,26a641,39d353&cellSize=6&cellGap=1&padding=4&showDayLabels=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=false&transparent=true&cellSize=6&cellGap=1&padding=4&showDayLabels=false" />
-    <img src="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=false&transparent=true&cellSize=6&cellGap=1&padding=4&showDayLabels=false" alt="Contribution heatmap, last 12 months" />
-  </picture>
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=dark&bg_color=0d1117&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="rendyyxyz" height="165" />
+      </picture>
+    </td>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=true&transparent=true&colors=161b22,0e4429,006d32,26a641,39d353&cellSize=6&cellGap=1&padding=4&showDayLabels=false" />
+        <source media="(prefers-color-scheme: light)" srcset="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=false&transparent=true&cellSize=6&cellGap=1&padding=4&showDayLabels=false" />
+        <img src="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=false&transparent=true&cellSize=6&cellGap=1&padding=4&showDayLabels=false" alt="Contribution heatmap, last 12 months" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <picture>
