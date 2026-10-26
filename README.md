@@ -44,13 +44,8 @@
 
 ### Featured project
 
-<a href="https://github.com/rendyyxyz/Teaching-TKA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=dark&bg_color=0d1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=default&bg_color=ffffff&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=default&bg_color=ffffff&hide_border=true" alt="Teaching-TKA" />
-  </picture>
-</a>
+<a href="https://github.com/rendyyxyz/Teaching-TKA#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=dark&bg_color=0d1117&hide_border=true" alt="Teaching-TKA"></a>
+<a href="https://github.com/rendyyxyz/Teaching-TKA#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=default&bg_color=ffffff&hide_border=true" alt="Teaching-TKA"></a>
 
 **[Teaching-TKA](https://rendyyxyz.github.io/Teaching-TKA/)**: four subjects, one password.
 
@@ -68,28 +63,19 @@
 <table>
   <tr>
     <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=dark&bg_color=0d1117&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" />
-        <img src="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="rendyyxyz" height="165" />
-      </picture>
+      <a href="#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=dark&bg_color=0d1117&hide_border=true" alt="rendyyxyz GitHub stats" height="165"></a>
+      <a href="#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="rendyyxyz GitHub stats" height="165"></a>
     </td>
     <td valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=true&transparent=true&cellSize=6&cellGap=1&padding=4&showDayLabels=false" />
-        <source media="(prefers-color-scheme: light)" srcset="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=false&transparent=true&cellSize=6&cellGap=1&padding=4&showDayLabels=false" />
-        <img src="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=false&transparent=true&cellSize=6&cellGap=1&padding=4&showDayLabels=false" alt="Contribution heatmap, last 12 months" />
-      </picture>
+      <a href="#gh-dark-mode-only"><img src="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=true&transparent=true&cellSize=6&cellGap=1&padding=4&showDayLabels=false" alt="Contribution heatmap, last 12 months"></a>
+      <a href="#gh-light-mode-only"><img src="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=false&transparent=true&cellSize=6&cellGap=1&padding=4&showDayLabels=false" alt="Contribution heatmap, last 12 months"></a>
     </td>
   </tr>
 </table>
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en&theme=dark&bg_color=0d1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en&theme=default&bg_color=ffffff&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="rendyyxyz" height="165" />
-  </picture>
+  <a href="#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en&theme=dark&bg_color=0d1117&hide_border=true" alt="Most used languages" height="165"></a>
+  <a href="#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="Most used languages" height="165"></a>
 </p>
 
 ---
