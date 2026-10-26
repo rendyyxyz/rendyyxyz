@@ -44,8 +44,7 @@
 
 ### Featured project
 
-<a href="https://github.com/rendyyxyz/Teaching-TKA#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=dark&bg_color=0d1117&hide_border=true" alt="Teaching-TKA"></a>
-<a href="https://github.com/rendyyxyz/Teaching-TKA#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=default&bg_color=ffffff&hide_border=true" alt="Teaching-TKA"></a>
+<a href="https://github.com/rendyyxyz/Teaching-TKA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rendyyxyz&repo=Teaching-TKA&theme=transparent&title_color=797979&text_color=797979&icon_color=797979&hide_border=true&disable_animations=true" alt="Teaching-TKA"></a>
 
 **[Teaching-TKA](https://rendyyxyz.github.io/Teaching-TKA/)**: four subjects, one password.
 
@@ -62,20 +61,17 @@
 
 <table>
   <tr>
-    <td valign="top">
-      <a href="#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=dark&bg_color=0d1117&hide_border=true" alt="rendyyxyz GitHub stats" height="165"></a>
-      <a href="#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="rendyyxyz GitHub stats" height="165"></a>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=rendyyxyz&show_icons=true&locale=en&theme=transparent&title_color=797979&text_color=797979&icon_color=797979&hide_border=true&hide_rank=true&disable_animations=true&card_width=420" alt="rendyyxyz GitHub stats">
     </td>
     <td valign="middle">
-      <a href="#gh-dark-mode-only"><img src="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=true&transparent=true&cellSize=6&cellGap=1&padding=4&showDayLabels=false" alt="Contribution heatmap, last 12 months"></a>
-      <a href="#gh-light-mode-only"><img src="https://gh-heat.anishroy.com/api/rendyyxyz/svg?darkMode=false&transparent=true&cellSize=6&cellGap=1&padding=4&showDayLabels=false" alt="Contribution heatmap, last 12 months"></a>
+      <img src="https://gh-heat.anishroy.com/api/rendyyxyz/svg?transparent=true&colors=80808033,0e4429,006d32,26a641,39d353&textColor=797979&cellSize=6&cellGap=1&padding=4&showDayLabels=false" alt="Contribution heatmap, last 12 months">
     </td>
   </tr>
 </table>
 
 <p align="left">
-  <a href="#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en&theme=dark&bg_color=0d1117&hide_border=true" alt="Most used languages" height="165"></a>
-  <a href="#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en&theme=default&bg_color=ffffff&hide_border=true" alt="Most used languages" height="165"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rendyyxyz&layout=compact&locale=en&theme=transparent&title_color=797979&text_color=797979&hide_border=true&disable_animations=true" alt="Most used languages">
 </p>
 
 ---
